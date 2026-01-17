@@ -401,7 +401,7 @@ fatigue and employer profit"
 
 ## 🔗 Quick Links
 
-- 🌐 [Live Demo]((https://earacircadianvalidation.starksukraine.workers.dev/))
+- 🌐 [Live Demo](https://earacircadianvalidation.starksukraine.workers.dev/)]
 - 📊 [Validation Results](#academic-validation)
 - 🧬 [Mathematical Foundation](#the-mathematical-foundation)
 - 🛠️ [Technical Docs](#technical-implementation)
