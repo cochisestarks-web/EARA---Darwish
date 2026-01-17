@@ -343,7 +343,7 @@ MIT License - See LICENSE file for details
 
 **Academic Use:** Please cite as:
 ```
-[Your Name] (2026). EARA Core v0.3: Circadian-Aware Labor Capacity Simulation.
+[Derek Loa] (2026). EARA Core v0.3: Circadian-Aware Labor Capacity Simulation.
 Based on: Darwish, M. (2023). "Optimal workday length considering worker 
 fatigue and employer profit"
 ```
