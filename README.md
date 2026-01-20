@@ -1,4 +1,5 @@
-# EARA Core v0.3 - Circadian-Aware Labor Capacity Simulation
+# EARA Core v0.4 - Employee Activity Rhythm Analyzer
+Physiological labor capacity simulation proving biological constraints are binding.
 
 [![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://earacircadianvalidation.starksukraine.workers.dev/)
 [![Status](https://img.shields.io/badge/status-validated-blue)]()
@@ -6,7 +7,7 @@
 
 **Exponential Accumulation Recovery Analysis (EARA)** - A physiological labor capacity simulation proving that biological constraints are non-negotiable through mathematical modeling and real-time visualization.
 
-🔗 **[Live Demo →](https://earacircadianvalidation.starksukraine.workers.dev/)**
+🔗 **[Live Demo →](https://cochisestarks-web.github.io/EARA/)**
 
 ---
 
