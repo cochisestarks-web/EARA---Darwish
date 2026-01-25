@@ -2,7 +2,7 @@
 
 > **Proving biological constraints are binding, not negotiable.**
 
-[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://yourusername.github.io/EARA/)
+[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://cochisestarks.github.io/EARA/)
 [![Version](https://img.shields.io/badge/version-0.4-blue)]()
 [![Research Grade](https://img.shields.io/badge/validation-MAE%3D0.000000-green)]()
 
