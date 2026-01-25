@@ -6,7 +6,7 @@
 [![Version](https://img.shields.io/badge/version-0.4-blue)]()
 [![Research Grade](https://img.shields.io/badge/validation-MAE%3D0.000000-green)]()
 
-**[🚀 Launch Simulation →]((https://cochisestarks-web.github.io/EARA/))**
+**[🚀 Launch Simulation →](https://cochisestarks-web.github.io/EARA/)**
 
 ---
 
